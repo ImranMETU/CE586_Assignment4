@@ -1,0 +1,6 @@
+Method,Base Shear Vb (kN),Base Overturning Moment Mb (kNm),Vb Difference from RHA (%),Mb Difference from RHA (%)
+RHA,190.88,1120.93,0.0,0.0
+RSA ABSSUM,247.39,1157.56,29.6,3.27
+RSA SRSS,183.39,1125.9,-3.92,0.44
+RSA CQC,184.35,1125.57,-3.42,0.41
+ESLFP,417.83,2836.82,118.89,153.08

@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction and Given Data}{2}{section.1}%
+\contentsline {section}{\numberline {2}Q1: Equation of Motion for Two Beam Idealizations}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Case 1: Flexurally Rigid}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Case 2: Flexural Stiffness EI}{5}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Comparison of the Two Beam Idealizations}{6}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Q2: Undamped Eigenvalue Analysis for Flexurally Rigid Beams}{7}{section.3}%
+\contentsline {section}{\numberline {4}Q3: Response History Analysis}{9}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Modal Properties}{9}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Modal SDOF Response Histories}{9}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Floor Displacements and Story Drifts}{10}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Modal Floor Forces, Story Shears, and Base Shear}{12}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Effective Modal Base Responses}{15}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Q4: Response Spectrum Analysis and Equivalent Static Procedure}{17}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Construction of the 5\% Elastic Response Spectrum}{17}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Response Spectrum Analysis}{18}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Comparison of RHA and RSA}{19}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Equivalent Static Lateral Force Procedure}{19}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Final Comparison of RHA, RSA, and ESLFP}{20}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Conclusion}{21}{section.6}%
